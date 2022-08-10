@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 <p> 
-  <b>Stack:</b>
   <b>Frontend:</b> React, Redux (ToolKit, Thunk, Saga), HTML, CSS, SASS, Geist UI, Bootstrap;
   <br>
   <b>Backend:</b> Node.JS, React SSR, Express, PostgreSQL, Sequelize ORM;
