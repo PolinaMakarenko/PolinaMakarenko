@@ -42,11 +42,12 @@ Here are some ideas to get you started:
 
 <p> 
   
-  <b>Frontend:</b> React, Redux (ToolKit, Thunk, Saga), HTML, CSS, SASS, Geist UI, Bootstrap;
+  <b>Frontend:</b> React, Redux (ToolKit, Thunk, Saga), HTML, CSS, SASS, Geist UI, Bootstrap.
   <br>
-  <b>Backend:</b> Node.JS, React SSR, Express, PostgreSQL, Sequelize ORM;
+  <b>Backend:</b> Node.JS, React SSR, Express, PostgreSQL, Sequelize ORM.
   <br>
-  <b>Testing:</b> Jest;
+  <b>Testing:</b> Jest.
+  <br>
   <b>Other:</b> Git, GitHub, Trello, Figma.
 </p>
 <hr> </hr>
