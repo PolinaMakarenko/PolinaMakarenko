@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/polina-makarenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polina-makarenko" height="30" width="40" /></a>
 <a href="https://instagram.com/pollim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pollim" height="30" width="40" /></a>
+  <a href="https://instagram.com/pollim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="pollim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
