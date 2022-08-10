@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p> 
    <a href="https://linkedin.com/in/polina-makarenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polina-makarenko" height="30" width="40" /></a>
 <a href="https://instagram.com/pollim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pollim" height="30" width="40" /></a>
-  <a href="https://t.me/pollina_mak" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/telegram-icon-in-paper-cut-style-social-media-icons_505135-256.jpg" alt="pollim" height="30" width="40" /></a>
+  <a href="https://t.me/pollina_mak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="pollim" height="30" width="40" /></a>
 </p> 
 </p>
 <hr> </hr>
