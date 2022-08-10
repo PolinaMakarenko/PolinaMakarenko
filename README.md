@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Polina!</h1>
 <h3 align="center">Full Stack JavaScript Developer.</h3>
 
-🌱 I’m currently learning ▪ Next.js; ▪ Vue.js; ▪ GraphQL; ▪ TypeScript.
+🌱 I’m currently learning 
+   - Next.js;
+   - Vue.js; 
+   - GraphQL; 
+   - TypeScript.
 
 <!-- - 📫 How to reach me  **pollinamakarenko@gmail.com**  -->
 <hr> </hr>
@@ -34,9 +38,10 @@ Here are some ideas to get you started:
 </p> 
 </p>
 <hr> </hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">STACK</h3>
 
 <p> 
+  
   <b>Frontend:</b> React, Redux (ToolKit, Thunk, Saga), HTML, CSS, SASS, Geist UI, Bootstrap;
   <br>
   <b>Backend:</b> Node.JS, React SSR, Express, PostgreSQL, Sequelize ORM;
