@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Polina!</h1>
 <h3 align="center">Full Stack JavaScript Developer.</h3>
 
-🌱 I’m currently learning 
-   - Next.js;
-   - Vue.js; 
-   - GraphQL; 
-   - TypeScript.
-
 <!-- - 📫 How to reach me  **pollinamakarenko@gmail.com**  -->
 <hr> </hr>
 
