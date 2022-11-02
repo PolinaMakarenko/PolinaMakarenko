@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   <b>Frontend:</b> React, Redux (ToolKit, Thunk, Saga), HTML, CSS, SASS, Geist UI, Bootstrap.
   <br>
-  <b>Backend:</b> Node.JS, React SSR, Express, PostgreSQL, Sequelize ORM.
+  <b>Backend:</b> Node.JS, Express, PostgreSQL, Sequelize ORM.
   <br>
   <b>Testing:</b> Jest.
   <br>
